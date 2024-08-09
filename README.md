@@ -2,7 +2,7 @@
 
 - Me chamo Bianca Teixeira 
 
-- Estou estudando na Alura 🌻
+- Estou estudando na **Alura** 🌻
 
 - Estou me aprimorando na linguagem javaScript
 
@@ -14,4 +14,6 @@
 
  - @b1anca_wtn                                                🌸.
 
-https://media1.tenor.com/m/4BoJJJyJ2wcAAAAC/usagym-usagymnastics.gif
+
+![](https://media1.tenor.com/m/4BoJJJyJ2wcAAAAC/usagym-usagymnastics.gif)
+
