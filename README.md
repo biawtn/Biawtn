@@ -17,3 +17,4 @@
 
 ![](https://media1.tenor.com/m/4BoJJJyJ2wcAAAAC/usagym-usagymnastics.gif)
 
+[Currículo profissional da TI preto e cinza.pdf](https://github.com/user-attachments/files/16782384/Curriculo.profissional.da.TI.preto.e.cinza.pdf)
